@@ -5,20 +5,20 @@ li = [12, 23, 76, 34, 'Omar Hasan']
 print(li)
 
 
-# add value to a list at the last
+# Add value to a list at the last
 li.append(50)
 print('Add 50 as new item to list')
 print(li)
 
 
-# a list can have another list in it
+# A list can have another list in it
 li2 = [10, 20, 30]
 li.append(li2)
 print('Add list to a list')
 print(li)
 
 
-# get the nested list-->li2 element from main list li
+# Get the nested list-->li2 element from main list li
 print('Get item of a list')
 print(li[6][0])
 
