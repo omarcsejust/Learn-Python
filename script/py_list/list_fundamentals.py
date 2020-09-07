@@ -1,8 +1,12 @@
 """
-1. list is a mutable data structure in python
+1. List is a mutable data structure in python
 
-2. list is ordered data structure
-i.e: we will get the data in a same order, as we added into list
+2. List is ordered collection
+i.e: we will get the data in a same order, as we added into the list
+
+3. As list is ordered collection, that's why we can get items using index
+
+4. List can contain tuples, dictionaries, more lists as elements of a list
 """
 
 # we can store different type of data in a same list
@@ -69,4 +73,15 @@ print(li)
 # delete entire list
 # ------------------
 del li
+
+# Making String from List
+# -----------------------
+greeting_words = ['Hello', 'Mr.', 'Omar', 'How', 'Are', 'You']
+greeting_text = ' '.join(greeting_words)
+print("String from List: ", greeting_text)
+
+# Making List from String
+# -----------------------
+words_list = greeting_text.split()
+print("List from String: ", words_list)
 

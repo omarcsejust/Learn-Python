@@ -1,3 +1,7 @@
+"""
+Dictionary are unordered collection
+"""
+
 # define dictionary
 my_dict = {}  # not set
 # or
@@ -60,6 +64,7 @@ dict_person.update({'name': 'Babu', 'last_name': 'Hasan'})  # update existing na
 print(dict_person)
 
 # Copy a dictionary to a new variable
+# -----------------------------------
 """
 To copay a dictionary to a new variable we should use copy() method.
 If we use assignment like dict_new = dict_parent, then the parent dictionary reference will be copied to a new variable
@@ -87,6 +92,7 @@ else:
     print("last_name key not exist in person_dict")
 
 # Reset a dictionary
+# ------------------
 dict_person.clear()
 print(dict_person)
 
