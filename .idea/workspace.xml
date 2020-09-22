@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eded158a-b57c-4add-a9da-a43f6edd4d5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script/higher-order-functions/1_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/higher-order-functions/2_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/higher-order-functions/3_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/higher-order-functions/4_reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/py_tuple/coursera_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/advanced/generator/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/advanced/generator/measure_performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/variable-scope/1_local_global_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/variable-scope/2_enclosed_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/variable-scope/3_LEGB_Rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/variable-scope/4_closure.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/manipulating_string/manipulating_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/manipulating-string/manipulating_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/manipulating_string/search_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/manipulating-string/search_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/py_dictionary/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/py_dictionary/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/py_list/list_fundamentals.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/py_list/list_fundamentals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/py_set/practice_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/py_set/practice_set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/py_tuple/py_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/py_tuple/py_tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/script/py_list/list_fundamentals.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1848">
-              <caret line="84" column="34" lean-forward="true" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+              <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -42,37 +37,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script/higher-order-functions/1_lambda.py">
+        <entry file="file://$PROJECT_DIR$/script/advanced/generator/basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="88">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script/higher-order-functions/2_filter.py">
+        <entry file="file://$PROJECT_DIR$/script/variable-scope/1_local_global_scope.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script/higher-order-functions/3_map.py">
+        <entry file="file://$PROJECT_DIR$/script/variable-scope/3_LEGB_Rules.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
+            <state relative-caret-position="946">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/script/higher-order-functions/4_reduce.py">
+        <entry file="file://$PROJECT_DIR$/script/variable-scope/4_closure.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/variable-scope/2_enclosed_variable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="176">
+              <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/advanced/generator/measure_performance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,8 +125,16 @@
         <option value="$PROJECT_DIR$/script/py_list/list_fundamentals.py" />
         <option value="$PROJECT_DIR$/script/higher-order-functions/1_lambda.py" />
         <option value="$PROJECT_DIR$/script/higher-order-functions/2_filter.py" />
-        <option value="$PROJECT_DIR$/script/higher-order-functions/3_map.py" />
         <option value="$PROJECT_DIR$/script/higher-order-functions/4_reduce.py" />
+        <option value="$PROJECT_DIR$/script/higher-order-functions/3_map.py" />
+        <option value="$PROJECT_DIR$/script/generator/basic_generator.py" />
+        <option value="$PROJECT_DIR$/script/generator/advanced.py" />
+        <option value="$PROJECT_DIR$/script/generator/measure_performance.py" />
+        <option value="$PROJECT_DIR$/script/generator/basic.py" />
+        <option value="$PROJECT_DIR$/script/variable-scope/LEGB_rules.py" />
+        <option value="$PROJECT_DIR$/script/variable-scope/enclosed_variable.py" />
+        <option value="$PROJECT_DIR$/script/variable-scope/LEGB_Rules.py" />
+        <option value="$PROJECT_DIR$/script/variable-scope/closure.py" />
       </list>
     </option>
   </component>
@@ -130,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -147,30 +166,13 @@
               <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="higher-order-functions" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="manipulating-string" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="py_dictionary" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="py_list" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="variable-scope" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,6 +184,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Pycharm\LearnPython\script\advanced" />
       <recent name="E:\Pycharm\LearnPython\script\main" />
     </key>
   </component>
@@ -283,18 +286,23 @@
       <workItem from="1599055417338" duration="9509000" />
       <workItem from="1599102519300" duration="5509000" />
       <workItem from="1599228831686" duration="10603000" />
-      <workItem from="1599455325752" duration="16938000" />
+      <workItem from="1599455325752" duration="18359000" />
+      <workItem from="1600616159721" duration="11565000" />
+      <workItem from="1600685232776" duration="1345000" />
+      <workItem from="1600705300682" duration="5073000" />
+      <workItem from="1600767607097" duration="594000" />
+      <workItem from="1600789059039" duration="724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95088000" />
+    <option name="totallyTimeSpent" value="115810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21104388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22617246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,7 +316,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5085034" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.56462586" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -450,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/py_list/list_fundamentals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="84" column="34" lean-forward="true" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/py_dictionary/dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -464,8 +465,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/py_list/py_built_in_methods_and_list.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/script/higher-order-functions/4_reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/higher-order-functions/3_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/higher-order-functions/2_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/higher-order-functions/1_lambda.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -474,26 +493,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/higher-order-functions/2_filter.py">
+    <entry file="file://$PROJECT_DIR$/script/py_list/list_fundamentals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="1848">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/higher-order-functions/3_map.py">
+    <entry file="file://$PROJECT_DIR$/script/py_list/py_built_in_methods_and_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/advanced/generator/basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
+        <state relative-caret-position="88">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/higher-order-functions/4_reduce.py">
+    <entry file="file://$PROJECT_DIR$/script/variable-scope/1_local_global_scope.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/variable-scope/3_LEGB_Rules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/variable-scope/2_enclosed_variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/advanced/generator/measure_performance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/variable-scope/4_closure.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
