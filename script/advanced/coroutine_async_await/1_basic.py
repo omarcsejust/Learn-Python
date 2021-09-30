@@ -49,11 +49,39 @@ async def main_test():
     test_task_002 = asyncio.create_task(test_002())
     await asyncio.gather(test_task_001, test_task_002)
 
+
+async def calculate_factorial(number: int):
+    if number == 0:
+        return 1
+    return await calculate_factorial(number-1) * number
+
+
+async def test_event_loop():
+    tasks = []
+    nums = [5, 10, 20, 30]
+    for num in nums:
+        tasks.append(calculate_factorial(num))
+        # tasks.append(asyncio.create_task(calculate_factorial(num)))
+
+    # gather_tasks = asyncio.gather(*tasks)
+    return await asyncio.gather(*tasks)
+
+    # loop = asyncio.get_event_loop()
+    # fact_res = loop.run_until_complete(gather_tasks)
+    # loop.close()
+    # print(fact_res)
+
+
 if __name__ == "__main__":
     # asyncio.run(main())
     # asyncio.run(main_test())
-    test_003()
+    # test_003()
     # asyncio.run(test_001())
+    # ress = asyncio.run(calculate_factorial(10))
+    # print(ress)
+    # test_event_loop()
+    data = asyncio.run(test_event_loop())
+    print(data)
 
 
 
