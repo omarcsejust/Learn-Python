@@ -1,7 +1,7 @@
 """
 => There are two types of variable in Python
   1. Instance variable
-  2. Class variable [we can access class variable by both class object & className]
+  2. Class/Static variable [we can access class variable by both class object & className]
 
 => There are three types of method in Python
   1. Instance method

@@ -28,10 +28,12 @@ if __name__ == "__main__":
 
     print(emp1.__repr__())
     print(repr(emp1))
-    print(emp1)  # So, actually __repr__ is called explicitly
+    print("\n")
 
     print(emp1.__str__())
     print(str(emp1))
+    print(emp1)  # So, actually __str__ is called explicitly
+    print("\n")
 
     print(emp1 + emp2)  # Without __add__ method we couldn't do this
 
