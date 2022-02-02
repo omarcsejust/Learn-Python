@@ -1,8 +1,8 @@
 class SubStr:
 
-    def __init__(self):
-        self.haystack = "aaabcbbbbbbbbdddddddabcdfreeabc"
-        self.needle = "abc"
+    def __init__(self, haystack: str, needle: str):
+        self.haystack = haystack
+        self.needle = needle
         self.index_li = []
 
     def find_indexes(self):
@@ -20,7 +20,7 @@ class SubStr:
 
 
 if __name__ == "__main__":
-    sbs = SubStr()
+    sbs = SubStr("aaabcbbbbbbbbdddddddabcdfreeabc", "abc")
     sbs.find_indexes()
     print(sbs.index_li)
 
