@@ -11,6 +11,12 @@ print(tp)
 print("2nd Element: ", tp[1])
 print("Type is: ", type(tp))
 
+tp_one_el = (10)  # its not a tupe, it is int value
+print("Only one element as Tuple? ", type(tp_one_el))
+
+tp_one_el2 = (10,)  # its not a tupe, it is int value
+print("Only one element is tuple with comma ", type(tp_one_el2))
+
 # immutable
 # ---------
 # tp[1] = 50  # Error
@@ -63,6 +69,7 @@ di = {
 
 list_of_tuples = di.items()
 print("List of tuples: ", list_of_tuples)  # e.g: [('name', 'Omar'), ('id', '120119')]
+print(type(list_of_tuples))
 
 for tp in di.items():
     print("Type of dictionary items: ", type(tp))

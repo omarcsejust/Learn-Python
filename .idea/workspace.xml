@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eded158a-b57c-4add-a9da-a43f6edd4d5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/two_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/grep.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/grep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/py_tuple/py_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/py_tuple/py_tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,15 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/oop/4_interface.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/advanced/thread/1_threading_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="44">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -83,20 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/two_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/grep.py">
+        <entry file="file://$PROJECT_DIR$/script/py_tuple/py_tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="166">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -129,7 +110,6 @@
         <option value="$PROJECT_DIR$/script/py_list/list_comprehension.py" />
         <option value="$PROJECT_DIR$/script/py_set/practice_set.py" />
         <option value="$PROJECT_DIR$/script/py_tuple/coursera_problem.py" />
-        <option value="$PROJECT_DIR$/script/py_tuple/py_tuple.py" />
         <option value="$PROJECT_DIR$/script/py_dictionary/dictionary.py" />
         <option value="$PROJECT_DIR$/script/py_list/list_fundamentals.py" />
         <option value="$PROJECT_DIR$/script/higher-order-functions/1_lambda.py" />
@@ -167,6 +147,7 @@
         <option value="$PROJECT_DIR$/script/advanced/thread/2_threading_module_in_class.py" />
         <option value="$PROJECT_DIR$/practice/two_sum.py" />
         <option value="$PROJECT_DIR$/practice/grep.py" />
+        <option value="$PROJECT_DIR$/script/py_tuple/py_tuple.py" />
       </list>
     </option>
   </component>
@@ -210,28 +191,7 @@
               <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="celery_test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="coroutine_async_await" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="redis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="LearnPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="script" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="oop" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="py_tuple" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -483,7 +443,8 @@
       <workItem from="1642942357498" duration="4231000" />
       <workItem from="1643484385457" duration="231000" />
       <workItem from="1643723953852" duration="1944000" />
-      <workItem from="1643780425490" duration="4761000" />
+      <workItem from="1643780425490" duration="5637000" />
+      <workItem from="1645016900672" duration="3271000" />
     </task>
     <task id="LOCAL-00001" summary="cache and asyncio">
       <created>1614532016593</created>
@@ -496,12 +457,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298569000" />
+    <option name="totallyTimeSpent" value="302716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -515,7 +477,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4030612" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.58843535" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -601,13 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/py_tuple/py_tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="88" column="29" lean-forward="true" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -851,6 +806,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice/grep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/two_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -891,25 +860,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script/advanced/thread/1_threading_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="44">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/two_sum.py">
+    <entry file="file://$PROJECT_DIR$/script/py_tuple/py_tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/grep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="166">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
