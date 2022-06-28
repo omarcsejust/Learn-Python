@@ -3,15 +3,18 @@
 
 2. "lambda" [parameter_list] ":" expression
 
-3. Lambda function can contain one or more tan one argument,
-but should contain only one expr
+3. Lambda function can contain zero or more tan one argument,
+but should contain only one expression
 
 4. Lambda function returns a function object
 
-5. Note that functions created with lambda expressions
-can not contain statements or annotations.
+5. In Lambda Function there is no need to write return Statement.
 
-6. Lambda functions can be used along with built-in functions like
+6. We can use all type of Actual Argument
+
+7. It contains only expressions and can't contain statements or annotations.
+
+8. Lambda functions can be used along with built-in functions like
 filter(), map() and reduce().
 """
 

@@ -35,11 +35,24 @@ class ParallerExecution:
         print(result)
         print(type(result))
 
+    async def execute_task_without_event_loop(self):
+        tasks = []
+        nums = [5, 10, 20, 30]
+        for num in nums:
+            # tasks.append(self.calculate_factorial(num))
+            tasks.append(asyncio.create_task(self.calculate_factorial(num)))  # also working
+
+        res = asyncio.run(await asyncio.gather(*tasks))
+        print(res)
+        return res
+
 
 if __name__ == '__main__':
     paraller_obj = ParallerExecution()
-    paraller_obj.execute_multiple_task_with_event_loop()
-    paraller_obj.get_without_event_loop_result()
+    # paraller_obj.execute_multiple_task_with_event_loop()
+    # paraller_obj.get_without_event_loop_result()
+
+    paraller_obj.execute_task_without_event_loop()
 
 
 

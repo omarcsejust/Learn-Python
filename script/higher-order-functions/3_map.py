@@ -76,3 +76,4 @@ filter out the prices are greater than 100
 """
 res = filter(lambda price: price > 100, map(lambda product: product['price'], products))
 print("Price List: ", tuple(res))
+
