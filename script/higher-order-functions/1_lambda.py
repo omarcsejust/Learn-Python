@@ -3,7 +3,7 @@
 
 2. "lambda" [parameter_list] ":" expression
 
-3. Lambda function can contain zero or more tan one argument,
+3. Lambda function can contain zero or more than one argument,
 but should contain only one expression
 
 4. Lambda function returns a function object
@@ -12,7 +12,7 @@ but should contain only one expression
 
 6. We can use all type of Actual Argument
 
-7. It contains only expressions and can't contain statements or annotations.
+7. It contains only expressions and can't contain statements(if, else, for, while) or annotations.
 
 8. Lambda functions can be used along with built-in functions like
 filter(), map() and reduce().
