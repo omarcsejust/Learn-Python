@@ -1,3 +1,6 @@
 venv/
 .idea/*
 script/advanced/aio/images/*
+__pycache__
+__pycache__/
+__pycache__/*
